@@ -7,3 +7,5 @@
 >SalesData : https://www.kaggle.com/rohitsahoo/sales-forecasting
 
 >StarwarsData : https://dplyr.tidyverse.org/reference/starwars.html
+
+>MushroomData : https://www.kaggle.com/datasets/uciml/mushroom-classification
