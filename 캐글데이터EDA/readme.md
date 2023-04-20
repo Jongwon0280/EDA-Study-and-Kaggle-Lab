@@ -9,3 +9,4 @@
 >StarwarsData : https://dplyr.tidyverse.org/reference/starwars.html
 
 >MushroomData : https://www.kaggle.com/datasets/uciml/mushroom-classification
+<br>Posting : [블로그바로가기](https://jongwon0280.github.io/da/Mushroom-Classification/)
