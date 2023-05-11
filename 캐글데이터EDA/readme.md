@@ -11,3 +11,5 @@
 >MushroomData : https://www.kaggle.com/datasets/uciml/mushroom-classification
 
 >Autism Data : https://www.kaggle.com/competitions/autismdiagnosis/overview
+
+>Skin Cancer Data : https://www.kaggle.com/datasets/kmader/skin-cancer-mnist-ham10000
