@@ -63,3 +63,5 @@ Kaggle의 데이터셋을 활용하여 다음과 같이 진행하였습니다.
 >Autism Data : https://www.kaggle.com/competitions/autismdiagnosis/overview
 
 >Skin Cancer Data : https://www.kaggle.com/datasets/kmader/skin-cancer-mnist-ham10000
+
+>Titanic Data : https://www.kaggle.com/datasets/heptapod/titanic
