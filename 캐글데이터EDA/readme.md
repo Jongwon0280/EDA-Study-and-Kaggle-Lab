@@ -31,7 +31,7 @@ Kaggle의 데이터셋을 활용하여 다음과 같이 진행하였습니다.
 
 정형데이터 : ML Tree based Ensemble
 
-> 정형데이터는 ML기반으로 접근하였으며, 모델향상을 위해 자동하이퍼파라미터 Optuna나 sklearn.gridsearch를 활용하였습니다.
+> 정형데이터는 ML기반으로 접근하였으며, 모델향상을 위해 자동하이퍼파라미터 Optuna나 sklearn.gridsearch를 활용하였습니다. 또한 voting(soft,hard)를 사용하였습니다.
 
 
 
