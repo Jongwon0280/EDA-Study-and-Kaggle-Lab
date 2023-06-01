@@ -64,4 +64,8 @@ Kaggle의 데이터셋을 활용하여 다음과 같이 진행하였습니다.
 
 >Skin Cancer Data : https://www.kaggle.com/datasets/kmader/skin-cancer-mnist-ham10000
 
+>Breast Ultrasound Data : https://www.kaggle.com/datasets/aryashah2k/breast-ultrasound-images-dataset
+
+> Pneumonia Data : https://www.kaggle.com/datasets/paultimothymooney/chest-xray-pneumonia
+
 >Titanic Data : https://www.kaggle.com/datasets/heptapod/titanic
